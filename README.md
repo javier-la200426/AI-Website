@@ -13,6 +13,7 @@ This project is planned to scale to future Placemats, built by the Tufts CEEO.
 1. Visit the [website](https://iliketocode2.github.io/AI-Puppy-UI/).
 2. Connect a SPIKE™ Prime to your computer using a micro usb to usb-c or micro usb to usb cord.
 3. Press the 'Connect' button and follow prompts to download the proper file for each lesson and run and edit your code.
+4. For documentation and a demo video: [notion](https://fetlab.notion.site/AI-Puppy-c18646f9611640cfa9d7b08bbb477167).
 
 ## Overview
 At the top of each page the current lesson name, lesson tips, and lesson tricks are displayed. Each page features the exact sensors/motors needed to complete each lesson. Finally, extension questions are below the code editor.
