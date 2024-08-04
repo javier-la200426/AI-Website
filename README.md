@@ -1,5 +1,5 @@
 # AI Puppy
-## This is a copy of the original repository ##
+## ** ##
 
 ## Authors
 [Izzy Morales](https://github.com/izzymorales), [Javier Laveaga](https://github.com/javier-la200426), [William Goldman](https://github.com/iliketocode2), [Rachael Azrialy](https://github.com/razrialy), [Emmett Berryman](https://github.com/Emmettberryman)
